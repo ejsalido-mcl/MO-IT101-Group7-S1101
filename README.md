@@ -57,19 +57,8 @@ PhilHealth: 3% of monthly salary (minimum ₱300, maximum ₱1,800 total premium
 
 Pag-IBIG: 1% for salaries ≤ ₱1,500, 2% for higher salaries (maximum ₱100)
 
-Withholding Tax: Based on TRAIN Law graduated tax table:
+Withholding Tax
 
-Up to ₱20,832: 0%
-
-₱20,833 - ₱33,332: 20% over ₱20,833
-
-₱33,333 - ₱66,666: ₱2,500 + 25% over ₱33,333
-
-₱66,667 - ₱166,666: ₱10,833 + 30% over ₱66,667
-
-₱166,667 - ₱666,666: ₱40,833.33 + 32% over ₱166,667
-
-Over ₱666,667: ₱200,833.33 + 35% over ₱666,667
 
 Net Pay Calculation:
 
@@ -142,17 +131,6 @@ Arrays and string manipulation
 
 Static methods and variables
 
-Limitations
-Processes only June-December 2024
-
-Maximum 6000 attendance records
-
-No overtime pay calculation
-
-Simple authentication (not secure for production)
-
-All deductions are applied to second cutoff only
 
 Project Plan Link
-[Insert Google Drive, Trello, or other project management link here]
 
